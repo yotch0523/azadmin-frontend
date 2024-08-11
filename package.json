@@ -2,7 +2,7 @@
   "name": "azadmin-frontend",
   "version": "0.1.0",
   "private": true,
-  "engine": {
+  "engines": {
     "node": ">=20.0.0"
   },
   "scripts": {
